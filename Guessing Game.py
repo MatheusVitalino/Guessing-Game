@@ -1,6 +1,3 @@
-# Jogo de Adivinhação sem usar import e def
-
-# Inicializar variáveis
 tentativas = 0
 acertou = False
 
